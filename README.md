@@ -34,7 +34,7 @@ This project combines three perception models into a unified scene understanding
 
 | Model | Task | Dataset | Output |
 |-------|------|---------|--------|
-| YOLOv8-nano | Object Detection | BDD100K | Bounding boxes |
+| YOLOv8-small | Object Detection | BDD100K | Bounding boxes |
 | U-Net | Drivable Area | BDD100K | Segmentation mask |
 | MiDaS | Depth Estimation | Pretrained | Depth map |
 
